@@ -1,4 +1,9 @@
+body {
+    width: 90%;
+    margin: 0px auto;
+}
 ul {
+    width: 100%;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -7,6 +12,7 @@ ul {
 }
 li {
     float: left;
+    width: 19.919%;
     border-right: 1px solid #bbb;
 }
 li a {
@@ -21,7 +27,4 @@ li a:hover:not(.active) {
 }
 .active {
     background-color: #4CAF50;
-}
-body {
-    font-family: 
 }

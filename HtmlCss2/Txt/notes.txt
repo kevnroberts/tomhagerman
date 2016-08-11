@@ -1,0 +1,119 @@
+Global format
+	Tiled aligned
+	Mobil and PC sizes % not PX and scalable readable text + image and video support
+	Colors scheme rustic dull dark
+	Navigation bar 
+	Tile height 
+	Banner?
+	Background image?
+
+Tabs
+	Home
+		Info
+	About
+		Bio
+	Media
+		Images
+			Same style non personal
+		Videos
+			Organized
+	Store
+		Albums
+		Songs
+		Info on all of them
+	Contact
+		Form
+
+Contents and details:
+Home:
+	Has all user info on website 
+	iframe of compilation of edited works
+	Info about work
+
+About:
+	Left tile first row
+		Image of him (attractive, professional, high quality)
+		Crop or scale or change for Mobil.
+	Right tile first row
+		Short simple personal description 
+			Father and such school
+		Accomplishments list w/ short description
+			Best video(s)
+			Best piece/album why
+		Credentials and work list
+			School 
+			Violin masters
+			Accordion 
+			Works with Colorado symphony
+			Part of DeVotchKa
+			Set /Stage management
+	Full tile second row
+		Unknown
+
+Media:
+	Half tile left 
+		Images sub tab embedded Img link
+	Half time right
+		Videos sub tab embedded Ing link
+
+	Sub videos
+		1/3 tile row 1
+			Image of Album covers with iframe of music sample / compilation + album info last line is link to buy
+			1 Water Music
+			2 The Breakfast Playground
+			3 Idle Creatures 
+		Full tile row 2 or more?
+			Row(s) of videos ranged most to least recent
+			iframe from YouTube on his new account for contacts forwarding and video hosting
+			video , short 1 or 2 line summary
+	Sub images 
+		Arranged by size
+		Shrink - crop in Mobil and different size's
+		Each image in tiled pattern with short description 
+		Pro instrumental theme low key cool not flashy
+
+Store:
+	All tiles have
+		Short introduction to ideas and theme
+		What you are buying: what tracks? how many? total time?
+		Prompt to click album cover or click for pricing link for pricing information with Itunes and ? CdBaby / other service for 	physical Cd - record sales
+	Full tile 1 
+		Water Music album cover
+	Full tile 2
+	 	The Breakfast Playground
+	Full tile 3
+		Idle Creatures 
+
+Contact:
+	Form / survey / promo / contact form that emails when completed to new business email
+	Features
+		Shrinks when scaled
+		Light color background text in text bars that goes away when you type
+		Emails senders email confirmation of sending and that it will be responded to at nearest convince
+	Including
+		Name*
+			Ie. Tom Hagerman
+		Email*
+			Ie. Hagerman@Tom.com
+		Phone (no spaces or dashes)*
+			Ie. 1234567890
+		Topic of inquiry*
+			Drop-down menu with business, personal, promotional, cooperate, ect. 
+		Inquiry*
+			Ie. What you want requirements needs 
+		Additional important info
+			Ie. Time line/limit 
+		Other contact method
+			Ie. 2nd phone, 2nd email, address, fax information
+		*required fields 
+		Submit button (wont submit without all required fields completed) (Give error message if missing required field do not send if missing) (Give error message if email does not have an @ do not send if missing) (give error message if phone number is not 10 integers do not send if missing) (if no errors ask are you sure you want to send if yes send if no do not send)
+
+		
+
+
+
+
+
+
+
+		

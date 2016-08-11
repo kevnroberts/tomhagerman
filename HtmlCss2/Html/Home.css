@@ -1,0 +1,23 @@
+
+iframe {
+
+}
+
+div {
+
+}
+
+.description {
+
+}
+
+.tomInfo {
+	width: 100%;
+	margin: 0 auto;
+}
+.description, iframe {
+	float: left;
+	width: 40%;
+	height: 20%;
+	margin: 1em 4.5%;
+}

@@ -1,0 +1,22 @@
+.boxes {
+height: 80%;
+width:90%;
+border-color: solid #999999;
+border-width:5%;
+border-height:5%;
+padding: 3% 3% 3% 3%;	
+}
+.color{
+background-color: #999999;
+opacity: 0.6;
+}
+.active {
+background-color: #999999;
+}
+body {
+	background-image: url("Brown.png");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}

@@ -12,10 +12,6 @@
 /*---------------------------------
 	OVERRIDES
 -----------------------------------*/
-h1,h2,h3,h4,h5,h6{
-font-family: "Arimo", arial, verdana, sans-serif;
-font-weight:normal;
-}
 
 thead th,
 tbody th{
@@ -27,10 +23,6 @@ a.btn,
 input[type="submit"],
 input[type="reset"],
 input[type="button"]{
-font-family: "Arimo", arial, verdana, sans-serif;
-}
-
-.menu{
 font-family: "Arimo", arial, verdana, sans-serif;
 }
 

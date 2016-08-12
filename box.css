@@ -11,11 +11,7 @@ background-color: #a08060;
 background-color: #999999;
 }
 body {
-	background-image: url("Brown.png");
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	background-color: #816141;
 	font-size: 14px;
 }
 p {

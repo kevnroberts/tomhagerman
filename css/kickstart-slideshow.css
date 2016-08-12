@@ -55,14 +55,7 @@
 /** THEME
 ===================================*/
 
-.bx-wrapper .bx-viewport {
-	-moz-box-shadow: 0 0 5px #ccc;
-	-webkit-box-shadow: 0 0 5px #ccc;
-	box-shadow: 0 0 5px #ccc;
-	border: solid #fff 5px;
-	left: 0;
-	background: #fff;
-}
+
 
 .bx-wrapper .bx-pager,
 .bx-wrapper .bx-controls-auto {
@@ -91,7 +84,7 @@
 	font-size: .85em;
 	font-family: Arial;
 	font-weight: bold;
-	color: #666;
+	color: #fff;
 	padding-top: 20px;
 }
 
@@ -103,7 +96,7 @@
 }
 
 .bx-wrapper .bx-pager.bx-default-pager a {
-	background: #666;
+	background: #fff;
 	text-indent: -9999px;
 	display: block;
 	width: 10px;
@@ -209,7 +202,7 @@
 	position: absolute;
 	bottom: 0;
 	left: 0;
-	background: #666\9;
+	background: #fff\9;
 	background: rgba(80, 80, 80, 0.75);
 	width: 100%;
 }
